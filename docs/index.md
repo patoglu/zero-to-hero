@@ -23,17 +23,19 @@ Soldaki menüden videolara ulaşabilirsiniz.
 
 ## Videolar
 
-| # | Video | Durum |
-|---|-------|-------|
-| 1 | [building micrograd](notebooks/01-micrograd.ipynb) | devam ediyor |
-| 2 | [building makemore](notebooks/02-makemore.ipynb) | — |
-| 3 | [makemore Part 2: MLP](notebooks/03-makemore-mlp.ipynb) | — |
-| 4 | [makemore Part 3: Activations & Gradients, BatchNorm](notebooks/04-makemore-bn.ipynb) | — |
-| 5 | [makemore Part 4: Becoming a Backprop Ninja](notebooks/05-backprop-ninja.ipynb) | — |
-| 6 | [makemore Part 5: Building a WaveNet](notebooks/06-wavenet.ipynb) | — |
-| 7 | [Let's build GPT](notebooks/07-gpt.ipynb) | — |
-| 8 | [Let's build the GPT Tokenizer](notebooks/08-tokenizer.ipynb) | — |
-| 9 | [Let's reproduce GPT-2 (124M)](notebooks/09-reproduce-gpt2.ipynb) | — |
+| # | Video | Notlar | Durum |
+|---|-------|--------|-------|
+| 1 | [building micrograd](https://youtu.be/VMj-3S1tku0) | [notebook](notebooks/01-micrograd.ipynb) | devam ediyor |
+| 2 | [building makemore](https://youtu.be/PaCmpygFfXo) | [notebook](notebooks/02-makemore.ipynb) | — |
+| 3 | [makemore Part 2: MLP](https://youtu.be/TCH_1BHY58I) | [notebook](notebooks/03-makemore-mlp.ipynb) | — |
+| 4 | [makemore Part 3: Activations & Gradients, BatchNorm](https://youtu.be/P6sfmUTpUmc) | [notebook](notebooks/04-makemore-bn.ipynb) | — |
+| 5 | [makemore Part 4: Becoming a Backprop Ninja](https://youtu.be/q8SA3rM6ckI) | [notebook](notebooks/05-backprop-ninja.ipynb) | — |
+| 6 | [makemore Part 5: Building a WaveNet](https://youtu.be/t3YJ5hKiMQ0) | [notebook](notebooks/06-wavenet.ipynb) | — |
+| 7 | [Let's build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY) | [notebook](notebooks/07-gpt.ipynb) | — |
+| 8 | [Let's build the GPT Tokenizer](https://youtu.be/zduSFxRajkE) | [notebook](notebooks/08-tokenizer.ipynb) | — |
+| 9 | [Let's reproduce GPT-2 (124M)](https://youtu.be/l8pRSuU81PU) | [notebook](notebooks/09-reproduce-gpt2.ipynb) | — |
+
+Tablodaki video adları YouTube'a, **notebook** bağlantıları ise notlarıma gider.
 
 ## Kaynak ve haklar
 
