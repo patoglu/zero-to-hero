@@ -1,0 +1,75 @@
+# @author ypatoglu
+site_name: Neural Networks — Zero to Hero
+site_description: Andrej Karpathy'nin Zero to Hero serisi için Türkçe notlar
+site_author: Yusuf Patoğlu
+site_url: https://ypatoglu.github.io/zero-to-hero/
+repo_url: https://github.com/ypatoglu/zero-to-hero
+repo_name: ypatoglu/zero-to-hero
+copyright: >
+  Notlar © 2026 Yusuf Patoğlu — CC BY-NC-ND 4.0 ·
+  Seri ve orijinal kod © Andrej Karpathy (MIT) ·
+  Resmî bir kaynak değildir.
+
+docs_dir: docs
+
+theme:
+  name: material
+  language: tr
+  features:
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - toc.follow
+  palette:
+    - scheme: default
+      primary: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Karanlık moda geç
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Aydınlık moda geç
+
+plugins:
+  - search
+  - mkdocs-jupyter:
+      include_source: true
+      execute: false
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+  - toc:
+      permalink: true
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ypatoglu
+      name: GitHub
+
+nav:
+  - Giriş: index.md
+  - Videolar:
+      - "1 — The spelled-out intro to neural networks and backpropagation: building micrograd": notebooks/01-micrograd.ipynb
+      - "2 — The spelled-out intro to language modeling: building makemore": notebooks/02-makemore.ipynb
+      - "3 — Building makemore Part 2: MLP": notebooks/03-makemore-mlp.ipynb
+      - "4 — Building makemore Part 3: Activations & Gradients, BatchNorm": notebooks/04-makemore-bn.ipynb
+      - "5 — Building makemore Part 4: Becoming a Backprop Ninja": notebooks/05-backprop-ninja.ipynb
+      - "6 — Building makemore Part 5: Building a WaveNet": notebooks/06-wavenet.ipynb
+      - "7 — Let's build GPT: from scratch, in code, spelled out": notebooks/07-gpt.ipynb
+      - "8 — Let's build the GPT Tokenizer": notebooks/08-tokenizer.ipynb
+      - "9 — Let's reproduce GPT-2 (124M)": notebooks/09-reproduce-gpt2.ipynb

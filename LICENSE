@@ -1,0 +1,39 @@
+Bu depo iki farkli lisans altinda icerik barindirir.
+
+================================================================
+1) KOD
+================================================================
+Notebook'lardaki kodun buyuk kismi Andrej Karpathy'nin
+"Neural Networks: Zero to Hero" serisinden gelmektedir ve
+kendisine aittir. Orijinal kod MIT lisanslidir:
+
+  https://github.com/karpathy/micrograd
+  https://github.com/karpathy/makemore
+  https://github.com/karpathy/nanoGPT
+
+  MIT License / Copyright (c) Andrej Karpathy
+
+Bu depodaki kod da ayni sekilde MIT lisansi altinda kullanilabilir.
+
+================================================================
+2) TURKCE NOTLAR VE ANLATIM
+================================================================
+Copyright (c) 2026 Yusuf Patoglu
+
+Turkce aciklamalar, yorumlar, markdown hucreleri ve site metinleri
+Creative Commons Atif-GayriTicari-Turetilemez 4.0 Uluslararasi
+(CC BY-NC-ND 4.0) ile lisanslanmistir.
+
+  https://creativecommons.org/licenses/by-nc-nd/4.0/deed.tr
+
+Kisaca:
+  - Kaynak gostererek paylasabilirsiniz.
+  - Ticari olarak kullanamazsiniz.
+  - Degistirerek yeniden yayimlayamazsiniz.
+
+================================================================
+SORUMLULUK REDDI
+================================================================
+Bu depo resmi bir kaynak degildir ve Andrej Karpathy ile hicbir
+baglantisi yoktur. Notlar kisisel ogrenme surecinin kaydidir ve
+hata icerebilir. Celiski durumunda orijinal videolari esas aliniz.

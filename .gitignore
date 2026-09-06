@@ -1,0 +1,17 @@
+# ortam
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.jupyter.log
+
+# mkdocs ciktisi
+site/
+
+# arac ayarlari (pushlanmaz)
+.claude/
+CLAUDE.md
+.DS_Store
+
+# arac cache
+.cache/
