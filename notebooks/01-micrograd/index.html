@@ -3192,12 +3192,10 @@ draw_dot(L)</div>
 <pre><code>[L(a + h) - L(a)] / h
 </code></pre>
 <p>Fonksiyon expression'ı <strong>iki kez</strong> kuruyor: birincisinde her şey normal (<code>L1</code>), ikincisinde sadece ilgilendiğimiz değişken <code>h</code> kadar fazla (<code>L2</code>). Aradaki farkı <code>h</code>'a bölünce <code>dL/da</code> çıkıyor.</p>
-<h3 id="neden-bir-fonksiyonun-icinde-local-vs-global-scope">Neden bir fonksiyonun içinde? (local vs global scope)<a class="anchor-link" href="#neden-bir-fonksiyonun-icinde-local-vs-global-scope">¶</a></h3><p>Bu detay önemli. Notebook'ta yukarıda zaten global <code>a</code>, <code>b</code>, <code>c</code>, <code>d</code>, <code>e</code>, <code>f</code>, <code>L</code> değişkenleri var — grafiği çizdiğimiz olanlar.</p>
-<p>Python'da bir fonksiyonun içinde bir değişkene atama yapınca, o değişken <strong>local scope</strong>'ta oluşturulur; dışarıdaki global aynı isimli değişkene dokunulmaz. Fonksiyon bitince de yok olur.</p>
-<p>Eğer bu kodu fonksiyona sarmayıp doğrudan hücreye yazsaydık, globaldeki <code>a</code>'nın üstüne <code>2.0 + h</code> yazılmış olacaktı. Sonra <code>draw_dot(L)</code> hücresini tekrar çalıştırdığımızda değerleri bozulmuş, bambaşka bir grafik görecektik — üstelik sebebini anlamak zor olurdu.</p>
-<p>Fonksiyon burada bir <strong>karantina</strong> görevi görüyor: içeride istediğimiz gibi oynuyoruz, dışarıdaki durum korunuyor.</p>
+<h3 id="neden-bir-fonksiyonun-icinde-local-vs-global-scope">Neden bir fonksiyonun içinde? (local vs global scope)<a class="anchor-link" href="#neden-bir-fonksiyonun-icinde-local-vs-global-scope">¶</a></h3><p>Notebook'ta yukarıda zaten global <code>a</code>, <code>b</code>, <code>c</code>, <code>d</code>, <code>e</code>, <code>f</code>, <code>L</code> değişkenleri var. Fonksiyon içinde atama yapınca değişkenler <strong>local scope</strong>'ta kalıyor, dışarıdaki aynı isimli globallere dokunulmuyor.</p>
+<p>Bu kodu doğrudan hücreye yazsaydık globaldeki <code>a</code>'nın üstüne <code>2.0 + h</code> yazılırdı ve sonraki <code>draw_dot(L)</code> bambaşka bir grafik verirdi.</p>
 <blockquote>
-<p>Bu arada <code>lol</code> anlamlı bir isim değil, Karpathy gelişigüzel seçiyor. Fonksiyonun tek işi bir kez çalışıp sonucu yazdırmak.</p>
+<p><code>lol</code> anlamlı bir isim değil, Karpathy gelişigüzel seçiyor.</p>
 </blockquote>
 </div>
 </div>
