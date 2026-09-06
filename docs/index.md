@@ -6,6 +6,9 @@
 ![Neural network illüstrasyonu](assets/hero.png){ .hero }
 -->
 
+Andrej 10+ senedir neural network eğitiyor. Bu notebook'larla aşağıda dönüp biten ne varsa
+anlayacağız.
+
 Bu site, Andrej Karpathy'nin [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 serisini izlerken tuttuğum notlardan oluşuyor. Amacım videoyu özetlemek değil; anlatılan şeyi
 gerçekten anladığımdan emin olmak, takıldığım yerleri ve kafama takılan soruları kayda geçirmek.
