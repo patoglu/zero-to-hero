@@ -2,9 +2,9 @@
 site_name: Neural Networks — Zero to Hero
 site_description: Andrej Karpathy'nin Zero to Hero serisi için Türkçe notlar
 site_author: Yusuf Patoğlu
-site_url: https://ypatoglu.github.io/zero-to-hero/
-repo_url: https://github.com/ypatoglu/zero-to-hero
-repo_name: ypatoglu/zero-to-hero
+site_url: https://patoglu.github.io/zero-to-hero/
+repo_url: https://github.com/patoglu/zero-to-hero
+repo_name: patoglu/zero-to-hero
 copyright: >
   Notlar © 2026 Yusuf Patoğlu — CC BY-NC-ND 4.0 ·
   Seri ve orijinal kod © Andrej Karpathy (MIT) ·
@@ -58,7 +58,7 @@ extra_javascript:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/ypatoglu
+      link: https://github.com/patoglu
       name: GitHub
 
 nav:

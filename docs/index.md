@@ -56,4 +56,4 @@ kaynak göstererek paylaşabilirsiniz, ancak ticari olarak kullanamaz veya deği
 yeniden yayımlayamazsınız.
 
 Bir hata bulursanız ya da bir ekleme öneriniz varsa
-[GitHub üzerinden](https://github.com/ypatoglu) bildirebilirsiniz.
+[GitHub üzerinden](https://github.com/patoglu) bildirebilirsiniz.

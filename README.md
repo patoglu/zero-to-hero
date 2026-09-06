@@ -5,7 +5,7 @@
 Andrej Karpathy'nin [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 serisini izlerken tuttuğum notlar. Her video için ayrı bir Jupyter notebook var.
 
-**Site:** https://ypatoglu.github.io/zero-to-hero/
+**Site:** https://patoglu.github.io/zero-to-hero/
 
 ## Geliştirme
 
