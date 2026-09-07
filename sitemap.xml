@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://patoglu.github.io/zero-to-hero/</loc>
-         <lastmod>2026-09-06</lastmod>
+         <lastmod>2026-09-07</lastmod>
     </url>
     <url>
          <loc>https://patoglu.github.io/zero-to-hero/notebooks/01-micrograd/</loc>
-         <lastmod>2026-09-06</lastmod>
+         <lastmod>2026-09-07</lastmod>
     </url>
     <url>
          <loc>https://patoglu.github.io/zero-to-hero/notebooks/02-makemore/</loc>
-         <lastmod>2026-09-06</lastmod>
+         <lastmod>2026-09-07</lastmod>
     </url>
     <url>
          <loc>https://patoglu.github.io/zero-to-hero/notebooks/03-makemore-mlp/</loc>
-         <lastmod>2026-09-06</lastmod>
+         <lastmod>2026-09-07</lastmod>
     </url>
     <url>
          <loc>https://patoglu.github.io/zero-to-hero/notebooks/04-makemore-bn/</loc>
-         <lastmod>2026-09-06</lastmod>
+         <lastmod>2026-09-07</lastmod>
     </url>
     <url>
          <loc>https://patoglu.github.io/zero-to-hero/notebooks/05-backprop-ninja/</loc>
-         <lastmod>2026-09-06</lastmod>
+         <lastmod>2026-09-07</lastmod>
     </url>
     <url>
          <loc>https://patoglu.github.io/zero-to-hero/notebooks/06-wavenet/</loc>
-         <lastmod>2026-09-06</lastmod>
+         <lastmod>2026-09-07</lastmod>
     </url>
     <url>
          <loc>https://patoglu.github.io/zero-to-hero/notebooks/07-gpt/</loc>
-         <lastmod>2026-09-06</lastmod>
+         <lastmod>2026-09-07</lastmod>
     </url>
     <url>
          <loc>https://patoglu.github.io/zero-to-hero/notebooks/08-tokenizer/</loc>
-         <lastmod>2026-09-06</lastmod>
+         <lastmod>2026-09-07</lastmod>
     </url>
     <url>
          <loc>https://patoglu.github.io/zero-to-hero/notebooks/09-reproduce-gpt2/</loc>
-         <lastmod>2026-09-06</lastmod>
+         <lastmod>2026-09-07</lastmod>
     </url>
 </urlset>
