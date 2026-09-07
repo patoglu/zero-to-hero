@@ -46,6 +46,7 @@ Serinin tamamı — videolar, anlatım ve orijinal kod — **Andrej Karpathy**'y
   [karpathy/makemore](https://github.com/karpathy/makemore),
   [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) — MIT lisanslı
 - Seri ana sayfası: [karpathy.ai/zero-to-hero.html](https://karpathy.ai/zero-to-hero.html)
+- Notlardaki neuron şeması: [cs231n.github.io](https://cs231n.github.io/neural-networks-1/) — MIT lisanslı, © Andrej Karpathy
 
 Bu site resmî bir kaynak değildir, Karpathy ile bir bağlantısı yoktur ve videoların yerine geçmez.
 Buradaki notlar yalnızca kendi öğrenme sürecimin kaydıdır; **hata içerebilir**. Bir çelişki
